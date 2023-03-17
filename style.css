@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(192, 186, 178);
+}
+table{
+    position: relative;
+    border: 1cap;
+    padding-top: 5%;
+    width: 60%;
+    height: 60%;
+    font: 2em sans-serif;
+    border: 2cm ;
+}
+td{
+    border: 1cm ;
+    background-color: antiquewhite;
+}
+
+thead{
+    background-color: antiquewhite;
+    border: 1cm;
+}
+
+*{
+    padding-left: 3%;
+}
+
+iframe{
+    position: relative;
+
+    width: 60%;
+    padding-top: 10%;
+    margin-top: 10px;
+   
+    
+}
+
+.child{
+    background-color: rgb(206, 20, 60);
+}
+h1{
+    position: relative;
+    
+}
